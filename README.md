@@ -8,11 +8,11 @@ Name: TRAVEL COIN
 
 Symbol: $TVL
 
-Circulation supply: 3,888,888,888,888,888 (3.888 quadrillion tokens)
+Circulation supply: 388,888,888,888,888 (388.8 trillion tokens)
 
-Total supply: 3,888,888,888,888,888 (3.888 quadrillion tokens)
+Total supply: 388,888,888,888,888 (388.8 trillion tokens)
 
-Max supply: 7,777,777,777,777,770 (7.777 quadrillion tokens)
+Max supply: 777,777,777,777,770 (777.7 trillion tokens)
  
 Distribution:
 
@@ -22,17 +22,17 @@ Token sale & presale - 50%
 
 Userbase - 20%
 
-Strategic partnerships & acquisitions - 20%
+Strategic partnerships & acquisitions - 18%
 
-Marketing - 2%
+Marketing - 4%
 
 TOKEN FEATURES AND FEES
 
 Reward to holders: 
-Earn automatic $TVL rewards by holding your Travel Coin – 4% of every buy and sell transaction is redistributed to all token holders directly in wallets. You will receive the rewards automatically in your wallet or claim your rewards manually in our dApp Dashboard anytime.
+Earn automatic $TVL rewards by holding your Travel Coin – 4% of every buy and sell transaction is redistributed as BUSD to all token holders directly in wallets. You will receive the rewards automatically in your wallet or claim your rewards manually in our dApp Dashboard anytime.
 
 Liquidity fees pool: 
-Our Smart contract deposits 3% from every buy/sell transaction as $TVL liquidity pool. 
+Our Smart contract deposits 5% from every buy/sell transaction as $TVL liquidity pool. 
 Every Buy/Sell trade is matched with liquidity in the liquidity pool. A bigger liquidity pool will provide more stability to $TVL price.
 
 Buy-back & burn wallet: 
@@ -45,4 +45,4 @@ Sustainable development fund:
 1% of every transaction is automatically collected for sustainable development purposes.  Some of which will be invested into the NFT community projects, stakeholders pledges and partnerships on sustainable tourism development projects.
 
 Anti-whale protection: 
-Travel coin has a maximum circulating supply of tokens.  There will be a maximum number of tokens per transaction (0.5%) and per wallet to nullify whale manipulation.  No wallet can exceed 1% holdings.  
+Travel coin has a maximum circulating supply of tokens.  There will be a maximum number of tokens per transaction (0.01%) and per wallet to nullify whale manipulation.  No wallet can exceed 0.1% holdings.  
